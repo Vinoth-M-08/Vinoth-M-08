@@ -3,13 +3,13 @@
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" alt="gif" width="400px" />
 - 🔭 I’m currently working on <b>Image Processing Using ML</b>
 
-- 🌱 I’m currently learning **Android,Flutter,Machine Learning**
+- 🌱 I’m currently learning **Web3,Solidity**
 
-- 👯 I’m looking to collaborate on **React Projects**
+- 👯 I’m looking to collaborate on **React Projects,Web3**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vinoth-M-08](https://github.com/Vinoth-M-08)
 
-- 💬 Ask me about **react ,java,oops**
+- 💬 Ask me about **react,java,oops**
 
 - 📫 How to reach me **gopir525@gmail.com**
 
